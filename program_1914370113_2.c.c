@@ -1,6 +1,12 @@
 #include<stdio.h>
 void main()
 {
+    printf("\tBIODATA PRIBADI\n\n");
+    printf("NAMA 		: ALICIA YUNIKE RIONA\n");
+    printf("NPM 		: 1914370113\n");
+    printf("KELAS 		: REGULER 1D\n");
+    printf("PRODI 		: SISTEM KOMPUTER\n");
+    printf("FAKULTAS	: SAINS & TEKNOLOGI\n");
     for(int i=1;i<=5;i++){
         for(int j=i;j>=1;j--){
             printf("*");
