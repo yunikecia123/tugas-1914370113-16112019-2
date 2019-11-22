@@ -1,1 +1,1 @@
-# tugas-1914370113-16112019-2
+pertama kita simpulkan setiap looping utama yang di lakukan,program kita inputkan  i=1 i lebih besar sama dengan 5 maka dia akan mencetak++,jika j=1 j lebih besar sama dengan 1 akan mencetak -- lalu mencetak bintang nya. jika i=4 i lebih besar sama dengan nol increment jika salah program akan selesai
